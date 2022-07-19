@@ -1,8 +1,0 @@
-D:\Code\CSLight\obj\Debug\CSLight.csproj.AssemblyReference.cache
-D:\Code\CSLight\obj\Debug\CSLight.csproj.SuggestedBindingRedirects.cache
-D:\Code\CSLight\obj\Debug\CSLight.csproj.CoreCompileInputs.cache
-D:\Code\CSLight\bin\Debug\CSLight.exe.config
-D:\Code\CSLight\bin\Debug\CSLight.exe
-D:\Code\CSLight\bin\Debug\CSLight.pdb
-D:\Code\CSLight\obj\Debug\CSLight.exe
-D:\Code\CSLight\obj\Debug\CSLight.pdb
